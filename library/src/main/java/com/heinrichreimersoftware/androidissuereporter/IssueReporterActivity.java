@@ -153,7 +153,7 @@ public abstract class IssueReporterActivity extends AppCompatActivity {
     }
 
     private void initViews() {
-        setSupportActionBar(toolbar);
+        //setSupportActionBar(toolbar);
 
         if (NavUtils.getParentActivityName(this) != null) {
             ActionBar actionBar = getSupportActionBar();

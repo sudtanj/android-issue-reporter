@@ -92,7 +92,7 @@
                 android:padding="@dimen/air_icon_padding"
                 android:background="?selectableItemBackgroundBorderless"
                 app:srcCompat="@drawable/air_ic_expand_more"
-                android:tint="@color/colorPrimary"
+                android:tint="@color/textColorPrimary"
                 android:contentDescription="@string/air_label_device_info"/>
 
         </LinearLayout>
