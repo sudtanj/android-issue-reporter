@@ -36,5 +36,4 @@ dependencies {
     implementation 'org.eclipse.mylyn.github:org.eclipse.egit.github.core:2.1.5'
     implementation 'com.afollestad.material-dialogs:core:0.8.5.9'
     implementation 'com.github.aakira:expandable-layout:1.4.3@aar'
-    implementation 'com.android.tools.lint:lint-gradle:26.1.2'
 }
